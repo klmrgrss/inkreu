@@ -1,0 +1,12 @@
+---
+title: Incremental
+subtitle: News, tips, and commentary about all things incremental
+listing:
+  sort: "date desc"
+  contents: "posts"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+---
