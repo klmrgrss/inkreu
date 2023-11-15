@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "inkreu"
+  site-url: "https://klmrgrss.github.io/inkreu"
+  description: "inkreu kirjeldus"
+  repo-branch: main
+  repo-url: "https://github.com/klmrgrss/inkreu"
