@@ -4,5 +4,5 @@ website:
       - index.ipynb
       - 00_core.ipynb
       - section: blog
-        contents: [juhuu]
+        contents: []
         href: blog/index.qmd
